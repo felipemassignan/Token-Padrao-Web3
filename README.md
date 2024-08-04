@@ -6,6 +6,8 @@ Fora criada a Moeda MSGN Coin para testes. Utilizando o metamask na rede Sepolia
 Utilizando o IDE REMIX foi feito o deply do contrato, e utilizado as regras de movimentação de moedas MSGN para a carteira 0x06fc6C08E9720E7410D957E3A493De0765FcF1d8 via Metamask.
 Foram feitas as consultas do nome da moeda, assim como seu Total, casas decimais.
 
+Adicionadas fotos com as comprovações de movimentação.
+
 Consulta das movimentações podem ser feitas no endereço abaixo:
 https://sepolia.etherscan.io/address/0x06fc6C08E9720E7410D957E3A493De0765FcF1d8
 
